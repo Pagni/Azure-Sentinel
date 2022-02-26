@@ -1,0 +1,9 @@
+IOCs prepared for upload to Defender for Endpoint: https://security.microsoft.com/preferences2/custom_ti_indicators/files
+The list is divided into 5 files, as MDE only allows upload of 500 IOCs at a time. 
+
+This is based on work by Orange Cyberdefense as of 2022-02-26-13:55:23 and does not automatically update.
+Their Github can be found at: https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs
+
+Two MD5 Hashes could not be converted to SHA256 using VirusTotal. These are NOT included, but have been listed here:
+b4091a2850264f85990ee99d027dafde
+0a03c874495ef4ee757085e395026b46
